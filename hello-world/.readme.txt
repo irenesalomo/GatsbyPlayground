@@ -1,0 +1,5 @@
+List of used commands:
+gatsby develop
+gatsby build
+npm install --global surge
+surge public/ --domain giant-whip.surge.sh/
